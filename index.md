@@ -1,5 +1,5 @@
 ---
-title: YOURNOWHERE
+title: <p align="center">YOURNOWHERE</p>
 ---
 
 
